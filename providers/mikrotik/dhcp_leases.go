@@ -14,6 +14,7 @@ func (g DhcpLeaseGenerator) createResources(leases []client.DhcpLease) []terrafo
 	for _, lease := range leases {
 		resources = append(resources, terraform_utils.NewSimpleResource(
 			lease.Id,
+			// # TODO: prefer hostname if set, otherwise use Id
 			lease.Id,
 			"mikrotik_dhcp_lease",
 			"mikrotik",
