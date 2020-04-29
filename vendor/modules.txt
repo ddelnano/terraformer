@@ -250,6 +250,9 @@ github.com/cenkalti/backoff
 github.com/cloudflare/cloudflare-go
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
+# github.com/ddelnano/terraform-provider-mikrotik v0.0.0-20200429052839-ee0d4e51fa56
+## explicit
+github.com/ddelnano/terraform-provider-mikrotik/client
 # github.com/denverdino/aliyungo v0.0.0-20191217032211-d5785803c365
 ## explicit
 github.com/denverdino/aliyungo/common
@@ -283,6 +286,9 @@ github.com/go-playground/universal-translator
 ## explicit
 # github.com/go-resty/resty/v2 v2.1.1-0.20191201195748-d7b97669fe48
 github.com/go-resty/resty/v2
+# github.com/go-routeros/routeros v0.0.0-20190719172022-0819accf8221
+github.com/go-routeros/routeros
+github.com/go-routeros/routeros/proto
 # github.com/gogo/protobuf v1.3.1
 ## explicit
 github.com/gogo/protobuf/proto
@@ -400,7 +406,7 @@ github.com/hashicorp/hcl/v2/hclwrite
 github.com/hashicorp/hcl/v2/json
 # github.com/hashicorp/hcl2 v0.0.0-20191002203319-fb75b3253c80
 ## explicit
-# github.com/hashicorp/hil v0.0.0-20190212112733-ab17b08d6590
+# github.com/hashicorp/hil v0.0.0-20190212132231-97b3a9cdfa93
 github.com/hashicorp/hil
 github.com/hashicorp/hil/ast
 github.com/hashicorp/hil/parser

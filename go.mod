@@ -20,6 +20,7 @@ require (
 	github.com/bmatcuk/doublestar v1.2.2 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/cloudflare/cloudflare-go v0.11.0
+	github.com/ddelnano/terraform-provider-mikrotik v0.0.0-20200429052839-ee0d4e51fa56
 	github.com/denverdino/aliyungo v0.0.0-20191217032211-d5785803c365
 	github.com/digitalocean/godo v1.29.0
 	github.com/dollarshaveclub/new-relic-synthetics-go v0.0.0-20170605224734-4dc3dd6ae884
