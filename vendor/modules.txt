@@ -250,7 +250,7 @@ github.com/cenkalti/backoff
 github.com/cloudflare/cloudflare-go
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
-# github.com/ddelnano/terraform-provider-mikrotik v0.0.0-20200429052839-ee0d4e51fa56
+# github.com/ddelnano/terraform-provider-mikrotik v0.0.0-20200501153822-67e8acd3a050
 ## explicit
 github.com/ddelnano/terraform-provider-mikrotik/client
 # github.com/denverdino/aliyungo v0.0.0-20191217032211-d5785803c365
