@@ -12,7 +12,7 @@ require (
 	github.com/DataDog/datadog-api-client-go v1.0.0-beta.14
 	github.com/IBM-Cloud/bluemix-go v0.0.0-20210203095940-db28d5e07b55
 	github.com/IBM/go-sdk-core/v3 v3.3.1
-	github.com/IBM/go-sdk-core/v4 v4.9.0
+	github.com/IBM/go-sdk-core/v4 v4.10.0
 	github.com/IBM/ibm-cos-sdk-go v1.5.0
 	github.com/IBM/keyprotect-go-client v0.6.0
 	github.com/IBM/networking-go-sdk v0.13.0
